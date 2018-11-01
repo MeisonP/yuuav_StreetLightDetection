@@ -1,0 +1,7 @@
+Filename:DJI_0016.jpg	Box:7	No.0	center:(1983.5,1983.5)	rect_point:([1905 2999],[1905 2843],[2062 2843],[2062 2999])
+Filename:DJI_0016.jpg	Box:7	No.1	center:(3041.5,3041.5)	rect_point:([2938 2142],[2938 1922],[3145 1922],[3145 2142])
+Filename:DJI_0016.jpg	Box:7	No.2	center:(3572.63134766,3572.63134766)	rect_point:([3376 2173],[3321 1873],[3768 1791],[3823 2091])
+Filename:DJI_0016.jpg	Box:7	No.3	center:(3919.5,3919.5)	rect_point:([3841 1383],[3841 1232],[3998 1232],[3998 1383])
+Filename:DJI_0016.jpg	Box:7	No.4	center:(2506.5,2506.5)	rect_point:([2444  945],[2444  831],[2569  831],[2569  945])
+Filename:DJI_0016.jpg	Box:7	No.5	center:(2447.5,2447.5)	rect_point:([2358  704],[2358  365],[2537  365],[2537  704])
+Filename:DJI_0016.jpg	Box:7	No.6	center:(2993.5,2993.5)	rect_point:([2892  461],[2892  257],[3095  257],[3095  461])
